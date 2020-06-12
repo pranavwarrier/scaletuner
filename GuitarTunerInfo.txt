@@ -1,0 +1,13 @@
+GuitarTuner v1
+
+Copyright Ryan Kinnett, January 2010
+
+
+	GuitarTuner is a graphical program for, you guessed it, tuning a guitar.  In this first version, the user selects one of the six common string notes (E, A, D, G, B, E) from a pulldown menu, or, for alternate tuning, may manually enter any other frequency.  The target tone can be played through the computer speakers by clicking on the green arrow button.  Clicking on the red circle starts the graphical tuning display.
+
+	This folder contains three files necessary for the tuner to work: GuitarTuner.m, GuitarTuner.fig, and ButtonIcons.mat.  To edit the figure, type 'guide' in the matlab command window to begin Matlab's GUI design editor, and open the GuitarTuner.fig file.
+
+	This program has not been tested on any computer other than my own.  Assuming Matlab can access your sound card, I don't foresee any major compatibility issues.
+
+
+	I VERY MUCH LOOK FORWARD TO COMMENTS & SUGGESTIONS!! Please post on the Mathworks User Community.
